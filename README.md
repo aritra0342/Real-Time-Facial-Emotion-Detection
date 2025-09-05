@@ -37,10 +37,5 @@ python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Linux/Mac
 
-PROJECT STRUCTURE
-
-facial-emotion-detection/
-│── realtime_emotion.py   # Main script
-│── requirements.txt      # Dependencies
 │── README.md             # Documentation
 
