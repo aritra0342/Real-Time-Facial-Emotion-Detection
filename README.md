@@ -33,9 +33,3 @@ This project uses **OpenCV** for live video streaming and **FER (Facial Emotion 
 
 Create a virtual environment (recommended):
 
-python -m venv venv
-venv\Scripts\activate   # On Windows
-source venv/bin/activate  # On Linux/Mac
-
-│── README.md             # Documentation
-
